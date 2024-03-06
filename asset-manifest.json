@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Praneeth5544/praneethreddyk.github.io/static/css/main.daa6d35b.css",
+    "main.css": "/Praneeth5544/praneethreddyk.github.io/static/css/main.6b2bed78.css",
     "main.js": "/Praneeth5544/praneethreddyk.github.io/static/js/main.b2eb5aef.js",
     "static/media/hand_gestures.png": "/Praneeth5544/praneethreddyk.github.io/static/media/hand_gestures.61899ebef02150673cd6.png",
     "static/media/Vote.jpeg": "/Praneeth5544/praneethreddyk.github.io/static/media/Vote.3a5b8166ae861d1732ee.jpeg",
     "static/media/me.jpeg": "/Praneeth5544/praneethreddyk.github.io/static/media/me.4e198c77b15e3f1efa84.jpeg",
     "static/media/dsse.jpeg": "/Praneeth5544/praneethreddyk.github.io/static/media/dsse.3e24e9f3f78b0cb73c7d.jpeg",
     "index.html": "/Praneeth5544/praneethreddyk.github.io/index.html",
-    "main.daa6d35b.css.map": "/Praneeth5544/praneethreddyk.github.io/static/css/main.daa6d35b.css.map",
+    "main.6b2bed78.css.map": "/Praneeth5544/praneethreddyk.github.io/static/css/main.6b2bed78.css.map",
     "main.b2eb5aef.js.map": "/Praneeth5544/praneethreddyk.github.io/static/js/main.b2eb5aef.js.map"
   },
   "entrypoints": [
-    "static/css/main.daa6d35b.css",
+    "static/css/main.6b2bed78.css",
     "static/js/main.b2eb5aef.js"
   ]
 }
